@@ -57,5 +57,3 @@ Las imágenes empleadas en este proyecto provienen del conjunto **mini-MIAS** (*
 http://peipa.essex.ac.uk/info/mias.html
 
 Este subconjunto fue distribuido a través del campus virtual del Máster en Bioinformática para las Ciencias de la Salud (curso 2024/2025) para fines educativos.
-
-> Por motivos de licencia y privacidad, **este repositorio no incluye las imágenes originales**. Puedes descargar el conjunto desde la fuente oficial y organizar las imágenes en una carpeta `./dataset/` con el mismo formato (.pgm) y nomenclatura.
